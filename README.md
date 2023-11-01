@@ -1,2 +1,2 @@
-# SoftwareTechn
+# SoftwareTechnik
 SoftwareTechnik PVL Projekt
