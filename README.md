@@ -13,7 +13,7 @@ git clone git@github.com:Syrimx/SoftwareTechnik.git
 ```
 
 2. Bevor man arbeitet sollte man die neuste Version des repos herunterladen
-````bash
+```bash
 git pull
 ```
 
